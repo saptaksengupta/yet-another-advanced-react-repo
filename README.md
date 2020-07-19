@@ -1,4 +1,4 @@
-![Advanced React Patterns Ultrasimplified](assets/hero@3x.png)
+### A practicing repository of the udemy course named [The Complete Guide to Advanced React Component Patterns by ohansemmanuel] (https://www.udemy.com/course/the-complete-guide-to-advanced-react-patterns/)
 
 **Welcome to Advanced React Patterns Ultrasimplified!**
 
